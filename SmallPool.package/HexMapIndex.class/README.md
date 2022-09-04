@@ -1,0 +1,1 @@
+Represents an index of an item in HexMap. Being an index of a hexagonal field, it has own methods for finding neighbors and distance between two indices.

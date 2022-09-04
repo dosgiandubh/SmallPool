@@ -1,0 +1,1 @@
+Represents a hexagonal field with its special indices. Also, to support the needs of this game, has a center point and can start from a negative row/column.

@@ -1,13 +1,13 @@
-accessing
-neighborIndicesOf: anIndex
-	"Returns all indices that are neighbors of the given index, even without values"
+accessors
+neighbors
+	"Returns all adjacent indices"
 
 	| row column nearColumnRowOffset |
 	
-	row := anIndex row.
-	column := anIndex column.
+	row := self row.
+	column := self column.
 	
-	"Because of the hexagonal nature of the map, neighbor indices have 0.5 offsets comparing to the given index"
+	"Because of the hexagonal nature of the map, adjacent indices have 0.5 offset comparing to the given index"
 	nearColumnRowOffset := column \\ 2 == 0
 		ifTrue: [1]
 		ifFalse: [0].
