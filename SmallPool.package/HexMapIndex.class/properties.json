@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"items" ],
-	"name" : "HexMap",
+		"rowOffset",
+		"columnOffset" ],
+	"name" : "HexMapIndex",
 	"pools" : [
 		 ],
 	"super" : "Object",
