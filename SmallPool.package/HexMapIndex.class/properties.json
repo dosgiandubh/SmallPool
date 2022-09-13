@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "dosgiandubh 9/5/2022 01:27",
+	"commentStamp" : "dosgiandubh 9/5/2022 01:25",
 	"instvars" : [
-		"items" ],
-	"name" : "HexMap",
+		"rowOffset",
+		"columnOffset" ],
+	"name" : "HexMapIndex",
 	"pools" : [
 		 ],
 	"super" : "Object",
