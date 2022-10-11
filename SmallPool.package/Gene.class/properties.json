@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dosgiandubh 10/11/2022 22:47",
+	"instvars" : [
+		 ],
+	"name" : "Gene",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

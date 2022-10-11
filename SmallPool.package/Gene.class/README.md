@@ -1,0 +1,1 @@
+Represents the smallest particle of genetic information carried by a living creature. In the game context, it may be either "A", "B", "C", or "D", representing all existing genes in the game. Usually it is stored in a genome.

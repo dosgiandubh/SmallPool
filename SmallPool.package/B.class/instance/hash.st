@@ -1,0 +1,4 @@
+testing
+hash
+
+	^ 2

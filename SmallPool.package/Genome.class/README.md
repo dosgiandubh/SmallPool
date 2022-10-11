@@ -1,0 +1,1 @@
+Represents an entity that stores genetic information about a living creature

@@ -1,0 +1,4 @@
+testing
+= aGene
+
+	^ aGene isA

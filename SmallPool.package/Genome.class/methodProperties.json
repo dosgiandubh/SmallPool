@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"empty" : "dosgiandubh 10/11/2022 22:31",
+		"random:" : "dosgiandubh 10/11/2022 22:13",
+		"with:" : "dosgiandubh 10/11/2022 22:11" },
+	"instance" : {
+		"genes" : "dosgiandubh 10/11/2022 22:14",
+		"genes:" : "dosgiandubh 10/11/2022 22:14",
+		"mutatedByAddingGenes" : "dosgiandubh 10/11/2022 22:40",
+		"mutatedByLosingGenes" : "dosgiandubh 10/11/2022 22:30",
+		"mutatedByReplacingGenes" : "dosgiandubh 10/11/2022 22:43",
+		"printOn:" : "dosgiandubh 10/11/2022 22:29",
+		"randomlyMutated" : "dosgiandubh 10/11/2022 22:42" } }
