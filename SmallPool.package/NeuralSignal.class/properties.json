@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"energy" ],
+	"name" : "NeuralSignal",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

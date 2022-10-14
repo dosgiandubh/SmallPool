@@ -1,0 +1,1 @@
+Creature's internal factory responsible for building brain cells using creature's genome. Every factory decides on its own which cells it builds

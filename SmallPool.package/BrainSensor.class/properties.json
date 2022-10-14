@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dosgiandubh 10/13/2022 16:36",
+	"instvars" : [
+		 ],
+	"name" : "BrainSensor",
+	"pools" : [
+		 ],
+	"super" : "BrainCell",
+	"type" : "normal" }

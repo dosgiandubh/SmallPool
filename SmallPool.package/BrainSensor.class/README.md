@@ -1,0 +1,1 @@
+Represents a special kind of cells which have access to information about creature's environment such as visible objects, sounds, or any other information

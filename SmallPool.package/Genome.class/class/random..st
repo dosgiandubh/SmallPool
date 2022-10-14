@@ -6,6 +6,6 @@ random: length
 	
 	genes := OrderedCollection new: length.
 	
-	1 to: length do: [:index | genes add: Gene random].
+	length timesRepeat: [genes add: Gene random].
 	
 	^ self with: genes

@@ -1,0 +1,1 @@
+Accumulates all requested actions into a single most suitable action. The more times of requesting the certain action the more important the action becomes

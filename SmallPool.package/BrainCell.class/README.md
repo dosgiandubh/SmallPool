@@ -1,0 +1,1 @@
+It represents a cell that living creature's brain consists of. Basically, it is responsible for analyzing the current environment and making a decision what to do

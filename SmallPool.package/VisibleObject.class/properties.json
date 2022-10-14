@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dosgiandubh 10/13/2022 16:50",
+	"instvars" : [
+		 ],
+	"name" : "VisibleObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

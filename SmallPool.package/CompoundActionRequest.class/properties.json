@@ -1,0 +1,17 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dosgiandubh 10/13/2022 18:20",
+	"instvars" : [
+		"moveForwardRequestCount",
+		"rotateLeftRequestCount",
+		"rotateRightRequestCount",
+		"stayRequestCount" ],
+	"name" : "CompoundActionRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

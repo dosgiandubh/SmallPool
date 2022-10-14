@@ -1,0 +1,4 @@
+testing
+= aVisibleObject
+
+	^ aVisibleObject isObstackle

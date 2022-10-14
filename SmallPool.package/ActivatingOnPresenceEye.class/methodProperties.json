@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"on:" : "dosgiandubh 10/13/2022 18:01" },
+	"instance" : {
+		"expectedObject" : "dosgiandubh 10/13/2022 18:03",
+		"expectedObject:" : "dosgiandubh 10/13/2022 18:02",
+		"handleWorldEnvironment:" : "dosgiandubh 10/13/2022 18:07",
+		"think" : "dosgiandubh 10/13/2022 18:10" } }

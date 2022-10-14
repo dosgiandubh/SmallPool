@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ActivatingOnAbsenceEye",
+	"pools" : [
+		 ],
+	"super" : "BrainSensor",
+	"type" : "normal" }

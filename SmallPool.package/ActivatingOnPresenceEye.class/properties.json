@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dosgiandubh 10/13/2022 17:59",
+	"instvars" : [
+		"expectedObject" ],
+	"name" : "ActivatingOnPresenceEye",
+	"pools" : [
+		 ],
+	"super" : "BrainSensor",
+	"type" : "normal" }

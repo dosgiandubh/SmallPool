@@ -1,0 +1,1 @@
+Represents absence of any objects

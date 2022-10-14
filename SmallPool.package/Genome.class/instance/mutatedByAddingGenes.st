@@ -7,7 +7,6 @@ mutatedByAddingGenes
 	addedBlockLength := 4.
 	expandedGenes := self genes copy.
 	
-	addedBlockLength 
-		timesRepeat: [expandedGenes add: Gene random].
+	addedBlockLength timesRepeat: [expandedGenes add: Gene random].
 		
 	^ Genome with: expandedGenes

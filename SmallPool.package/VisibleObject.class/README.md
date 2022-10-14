@@ -1,0 +1,1 @@
+Represents an object that a living creature can see. It does not contain any detailed information about the represented object, only visual identity

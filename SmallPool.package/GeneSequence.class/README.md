@@ -1,0 +1,1 @@
+Represents a sequences of genes that can be read step by step. Used in parsing genomes

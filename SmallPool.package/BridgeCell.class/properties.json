@@ -1,0 +1,14 @@
+{
+	"category" : "SmallPool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BridgeCell",
+	"pools" : [
+		 ],
+	"super" : "BrainCell",
+	"type" : "normal" }

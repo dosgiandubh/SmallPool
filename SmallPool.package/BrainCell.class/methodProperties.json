@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drainEnergy" : "dosgiandubh 10/14/2022 09:43",
+		"energy" : "dosgiandubh 10/14/2022 09:42",
+		"energy:" : "dosgiandubh 10/14/2022 09:42",
+		"followingCells" : "dosgiandubh 10/13/2022 16:32",
+		"handleNeuralSignal:" : "dosgiandubh 10/13/2022 16:25",
+		"increaseEnergyBy:" : "dosgiandubh 10/14/2022 09:45",
+		"initialize" : "dosgiandubh 10/14/2022 09:51",
+		"linkFollowingCell:" : "dosgiandubh 10/13/2022 16:33",
+		"think" : "dosgiandubh 10/13/2022 16:29" } }
